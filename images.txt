@@ -1,1 +1,2 @@
 jc21/nginx-proxy-manager
+jeessy/ddns-go
