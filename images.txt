@@ -1,2 +1,9 @@
+python
+couchdb
+gitea/gitea
 jc21/nginx-proxy-manager
 jeessy/ddns-go
+daledavies/jump
+luodaoyi/kms-server
+linuxserver/transmission
+laov/httpd
